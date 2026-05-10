@@ -80,7 +80,7 @@ function recordUsedAllowanceOf(
     * [`controllerOf`](/docs/dev/v2/contracts/jbdirectory/properties/controllerof.md)
     * [`overflowAllowanceOf`](/docs/dev/v2/contracts/or-controllers/jbcontroller/read/overflowallowanceof.md)
     * [`token`](/docs/dev/v2/contracts/or-payment-terminals/or-abstract/jbsingletokenpaymentterminal/properties/token.md)
-4.  Make sure there's enough allowance left to accomodate the new used amount.
+4.  Make sure there's enough allowance left to accommodate the new used amount.
 
     ```
     // Make sure the new used amount is within the allowance.

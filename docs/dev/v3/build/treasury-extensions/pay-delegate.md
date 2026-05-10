@@ -76,7 +76,7 @@ contract NFTPayDelegate is ERC721, IJBFundingCycleDataSource, IJBPayDelegate {
       IJBPayDelegate delegate
     )
   {
-    // Forward the recieved weight and memo, and use this contract as a pay delegate.
+    // Forward the received weight and memo, and use this contract as a pay delegate.
     return (_data.weight, _data.memo, IJBPayDelegate(address(this)));
   }
 

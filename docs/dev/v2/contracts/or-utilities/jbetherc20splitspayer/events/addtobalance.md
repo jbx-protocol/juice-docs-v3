@@ -21,7 +21,7 @@ event AddToBalance(
 ```
 
 * `projectId` is the ID of the project who received any leftover funds after splits were paid out.
-* `beneficiary` is the address that received the project's tokens, or recieved the leftover funds if there was no project ID.
+* `beneficiary` is the address that received the project's tokens, or received the leftover funds if there was no project ID.
 * `token` is the token that was paid.
 * `amount` is the amount that was paid, as a fixed point number.
 * `decimals` is the amount of decimals in the amount.

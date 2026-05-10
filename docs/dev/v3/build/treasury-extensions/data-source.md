@@ -136,7 +136,7 @@ contract AllowlistDataSource is IJBFundingCycleDataSource {
   {
     if (!allowed[_data.payer]) revert NOT_ALLOWED();
 
-    // Forward the recieved weight and memo, and use no delegate.
+    // Forward the received weight and memo, and use no delegate.
     return (_data.weight, _data.memo, IJBPayDelegate(address(0)));
   }
 
