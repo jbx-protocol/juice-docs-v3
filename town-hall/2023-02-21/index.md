@@ -60,7 +60,7 @@ Now the `addToBalanceOf` call will not do so automatically any more. There is a 
 
 -  `useAllowanceOf`, we don't even expose this in the client yet, but we probably should consider doing some version, or at least alerting in the project page when there is an allowance in the contract, even though the UI doesn't facilitate it.
 
-  Its API is also changing to include the `_metadata` parameter alongside `_memo`. As this will only be called by the project owner, so it's usefull to keep the `_memo` there.
+  Its API is also changing to include the `_metadata` parameter alongside `_memo`. As this will only be called by the project owner, so it's useful to keep the `_memo` there.
 
 ![the useAllowanceOf function](useallowanceof.webp)
 

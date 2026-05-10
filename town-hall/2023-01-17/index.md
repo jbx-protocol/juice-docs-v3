@@ -75,7 +75,7 @@ Jmill and Genekogan came to our town hall introducing Banny Warhol last December
 
 [Gabriel Haines](https://twitter.com/gabrielhaines) is a KOL on Twitter with 43.9k followers. He has been famous for making videos of himself shirtless yelling and waving a machete in his backyard.
 
-Nicholas was working with him to create a new Juicebox project, where Gabriel Haines will be selling NFTs and doing roast or pep talk for the minters of those NFTs. By the time of this town hall summary, this project has been created successfully and has recieved quite a few payments.
+Nicholas was working with him to create a new Juicebox project, where Gabriel Haines will be selling NFTs and doing roast or pep talk for the minters of those NFTs. By the time of this town hall summary, this project has been created successfully and has received quite a few payments.
 
 ![Gabriel Haines project](gabriel_rantsforyou.webp)
 
